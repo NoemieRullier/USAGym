@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">USA Gym</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Login-->
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="login_profile_photo_description">Photo du profil sélectionné</string>
+    <string name="login_pseudo_hint">Pseudo</string>
+    <string name="login_password_hint">Mot de passe</string>
+    <string name="login_remember_me">Se souvenir de moi</string>
+    <string name="login_connect_without_account">Se connecter sans compte</string>
+
+    <!--Account-->
+    <string name="title_activity_new_account_first">NewAccountFirstActivity</string>
+    <string name="account_pseudo_label">Pseudo</string>
+    <string name="account_photo_label">Photo</string>
+    <string name="account_password_label">Mot de passe</string>
+    <string name="account_password_confirmation_label">Confirmation</string>
+
+
+    <!--Erreurs-->
+    <string name="erreur">Une erreur s\'est produite</string>
+
+
+</resources>
